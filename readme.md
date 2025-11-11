@@ -1,4 +1,4 @@
-# Learn about git ang github 
+# Learn about git and github 
 
 hello welcome to git and github 
 
